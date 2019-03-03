@@ -36,6 +36,7 @@ value = 1;
 );
 date = "2019-02-20 22:08:36 +0000";
 designer = "Raphaël Ronot";
+designerURL = ronotypo.com;
 familyName = Minipax;
 featurePrefixes = (
 {
