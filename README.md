@@ -33,6 +33,15 @@ There’s something more about Minipax : from the start, I wanted it to be a qui
 
 Minipax is planned to be a quite extensive type family, with an italic cut coming pretty soon and a monowidth version hopefully done by the end of the year 2019. In the meantime, have fun with the upstraight version. 
 
+## About the author
+
+Raphaël Ronot is a french designer with a taste for complex visual systems and typefaces. His work covers branding, communications and product design. 
+
+## Contact
+Instagram (https://www.instagram.com/ronotypo/ "@ronotypo")
+Twitter (https://twitter.com/ronotypo "@ronotypo")
+Website www.ronotypo.com
+
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
