@@ -38,9 +38,9 @@ Minipax is planned to be a quite extensive type family, with an italic cut comin
 Raphaël Ronot is a french designer with a taste for complex visual systems and typefaces. His work covers branding, communications and product design. 
 
 ## Contact
-Instagram (https://www.instagram.com/ronotypo/ "@ronotypo")
-Twitter (https://twitter.com/ronotypo "@ronotypo")
-Website www.ronotypo.com
+[Instagram](https://www.instagram.com/ronotypo/ "@ronotypo")
+[Twitter](https://twitter.com/ronotypo "@ronotypo")
+[Website](www.ronotypo.com)
 
 ## License
 
