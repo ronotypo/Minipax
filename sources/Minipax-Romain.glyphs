@@ -1,5 +1,8 @@
 {
 .appVersion = "1216";
+DisplayStrings = (
+xy
+);
 classes = (
 {
 automatic = 1;
@@ -19503,7 +19506,7 @@ unicode = 1E81;
 {
 color = 6;
 glyphname = x;
-lastChange = "2019-03-01 16:17:19 +0000";
+lastChange = "2019-03-11 21:07:51 +0000";
 layers = (
 {
 anchors = (
@@ -19652,13 +19655,13 @@ nodes = (
 closed = 1;
 nodes = (
 "76 480 LINE",
-"361 40 LINE",
-"287 38 LINE",
-"287 0 LINE",
+"360 40 LINE",
+"286 38 LINE",
+"286 0 LINE",
 "535 0 LINE",
 "535 38 LINE",
 "476 40 LINE",
-"167 520 LINE",
+"168 520 LINE",
 "10 520 LINE",
 "10 482 LINE"
 );
