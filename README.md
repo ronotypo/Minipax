@@ -34,19 +34,19 @@ There’s something more about Minipax : from the start, I wanted it to be a qui
 Minipax is planned to be a quite extensive type family, with an italic cut coming pretty soon and a monowidth version hopefully done by the end of the year 2020. In the meantime, have fun with the upstraight version. 
 
 ### Design Quality
-	Glyphset: 5/5
+Glyphset: 5/5
 	- It should cover all latin languages
-	Styles: 3/5
+Styles: 3/5
 	- Only 4 upstraignts now, but italic and monospace to come.
-	Drawing quality: 4/5
+Drawing quality: 4/5
 	- Pretty good
-	Spacing: 3/5
+Spacing: 3/5
 	- OK
-	Kerning: 3/5
+Kerning: 3/5
 	- Something like 600 pairs, no kerning on the diacritics and punctuation.
-	OT Features: 4/5
+OT Features: 4/5
 	- Small caps, numerals, denominators, ordinals, old style figures...
-	Hinting: 2/5
+Hinting: 2/5
 	- Automatic
 
 ## About the author
