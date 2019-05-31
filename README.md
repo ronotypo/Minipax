@@ -36,16 +36,22 @@ Minipax is planned to be a quite extensive type family, with an italic cut comin
 ### Design Quality
 **Glyphset: 5/5**
 - It should cover all latin languages
+
 **Styles: 3/5**
 - Only 4 upstraignts now, but italic and monospace to come.
+
 **Drawing quality: 4/5**
 - Pretty good
+
 **Spacing: 3/5**
 - OK
+
 **Kerning: 3/5**
 - Something like 600 pairs, no kerning on the diacritics and punctuation.
+
 **OT Features: 4/5**
 - Small caps, numerals, denominators, ordinals, old style figures...
+
 **Hinting: 2/5**
 - Automatic
 
