@@ -31,7 +31,7 @@ There’s something more about Minipax : from the start, I wanted it to be a qui
 
 ## Development
 
-Minipax is planned to be a quite extensive type family, with an italic cut coming pretty soon and a monowidth version hopefully done by the end of the year 2019. In the meantime, have fun with the upstraight version. 
+Minipax is planned to be a quite extensive type family, with an italic cut coming pretty soon and a monowidth version hopefully done by the end of the year 2020. In the meantime, have fun with the upstraight version. 
 
 ## About the author
 
@@ -51,3 +51,7 @@ http://scripts.sil.org/OFL
 ## Repository Layout
 
 This font repository structure is inspired by [Unified Font Repository v0.3](https://github.com/unified-font-repository/Unified-Font-Repository).
+
+## Publishing
+
+This font is made exclusively available through the french open-source font foundry Velvetyne.fr. 
