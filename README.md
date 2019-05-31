@@ -33,6 +33,15 @@ There’s something more about Minipax : from the start, I wanted it to be a qui
 
 Minipax is planned to be a quite extensive type family, with an italic cut coming pretty soon and a monowidth version hopefully done by the end of the year 2020. In the meantime, have fun with the upstraight version. 
 
+### Design Quality
+- Glyphset: [x] [x] [x] [x] [x]
+- Styles: [x] [x] [x] [ ] [ ]
+- Drawing quality: [x] [x] [x] [x] [ ]
+- Spacing: [x] [x] [x] [x] [ ]
+- Kerning: [x] [x] [x] [ ] [ ]
+- OT Features: [x] [x] [x] [x] [ ]
+- Hinting: [x] [x] [ ] [ ] [ ]
+
 ## About the author
 
 Raphaël Ronot is a french designer with a taste for complex visual systems and typefaces. His work covers branding, communications and product design. 
