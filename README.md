@@ -14,9 +14,6 @@ Minipax is a typeface inspired by the novel 1984, from George Orwell. It has bee
 > A page
 
 
-There’s something more about Minipax : from the start, I wanted it to be a quite complete type family (large glyph sets are rare in the world of open-source fonts). Which is why it has many alternates, ligatures, special characters and a whole bunch of diacritics… So that you can enjoy typesetting with Minipax, without worrying about language support or small capitals for instance. This is also the reason why I made it a variable-font… hoping it would provide a reasonable amount of choices to a demanding typographer.
-
-
 ![Image3](https://github.com/Raphlastude/Minipax/blob/master/documentation/images/Minipax.jpg)
 > Basic Glyphset
 
@@ -57,7 +54,7 @@ Minipax is planned to be a quite extensive type family, with an italic cut comin
 
 ## About the author
 
-Raphaël Ronot is a french designer with a taste for complex visual systems and typefaces. His work covers branding, communications and product design. 
+Raphaël Ronot is a french product designer by day, type designer by night.
 
 ## Contact
 [Instagram](https://www.instagram.com/ronotypo/ "@ronotypo")
