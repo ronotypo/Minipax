@@ -58,8 +58,7 @@ Raphaël Ronot is a french product designer by day, type designer by night.
 
 ## Contact
 [Instagram](https://www.instagram.com/ronotypo/ "@ronotypo")
-[Twitter](https://twitter.com/ronotypo "@ronotypo")
-[Website](https://ronotypo.com)
+[Website](https://raphaelronot.com)
 
 ## License
 
